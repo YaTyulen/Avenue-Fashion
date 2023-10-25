@@ -1,0 +1,1 @@
+import{openMenu}from"./burger.js";import{openMap}from"./details.js";openMenu(),openMap();
